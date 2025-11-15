@@ -1,4 +1,4 @@
-# DS 223 Marketing Analytics — Homework 3: Survival Analysis & CLV
+# Homework 3: Survival Analysis & CLV
 
 This repository contains the code and report for Homework 3 in **DS 223 Marketing Analytics**.  
 The goal of the assignment is to model subscriber churn using survival analysis techniques and to compute customer lifetime value (CLV).
